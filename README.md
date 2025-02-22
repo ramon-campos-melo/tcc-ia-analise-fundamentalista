@@ -1,0 +1,2 @@
+# tcc-ia-analise-fundamentalista
+ 
