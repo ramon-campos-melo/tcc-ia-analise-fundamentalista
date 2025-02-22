@@ -28,15 +28,11 @@ A estrutura do repositório está organizada da seguinte maneira:
 * `/codigo.ipynb`: Código do projeto em notebook Jupyter
 * `/readme.md`: Este arquivo de documentação
 
-## Licença
-
-Este projeto está licenciado sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0), permitindo o uso, distribuição e modificação do conteúdo, desde que a autoria seja atribuída corretamente.
-
 ## Créditos e Autoria
 
 * Alunos: Fernando Passos Mello e [Ramon Ramalho Campos](https://www.linkedin.com/in/ramon-campos-melo)
 * Orientadora: [Prof.ª Daisy Cristine Albuquerque da Silva](https://www.linkedin.com/in/daisyalbuquerque)
-* Coordenador: [Prof. Sérgio Monteiro](https://www.linkedin.com/in/sergio-assun%C3%A7%C3%A3o-monteiro-b781897b)
+* Coordenador: [Prof. Sérgio Assunção Monteiro](https://www.linkedin.com/in/sergio-assun%C3%A7%C3%A3o-monteiro-b781897b)
 
 ## Status do Projeto
 
@@ -45,3 +41,7 @@ Este projeto está finalizado. Embora não tenha gerado resultados de rentabilid
 ## Considerações Finais
 
 A implementação de Inteligência Artificial no mercado de ações é um campo promissor, mas ainda repleto de desafios. Os resultados deste estudo indicam que, embora o modelo desenvolvido não tenha sido rentável, ele oferece informações valiosas sobre como a IA pode ser utilizada para apoiar a tomada de decisão no mercado financeiro. Portanto, futuros aprimoramentos no modelo podem levar a resultados mais promissores.
+
+## Licença
+
+Este projeto está licenciado sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0), permitindo o uso, distribuição e modificação do conteúdo, desde que a autoria seja atribuída corretamente.
