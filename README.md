@@ -24,7 +24,7 @@ A estrutura do repositório está organizada da seguinte maneira:
 * [`balancos_zip`](./balancos_zip): Contém 100 arquivos ZIP com balanços financeiros das empresas
 * [`balancos`](./balancos): Contém 100 arquivos .xls extraídos dos arquivos ZIP
 * [`TCC_IA_Analise_Fundamentalista.pdf`](./TCC_IA_Analise_Fundamentalista.pdf): Trabalho escrito em formato PDF
-* [`tcc_ia_analise_fundamentalista.ipynb`](tcc_ia_analise_fundamentalista.ipynb): Código do projeto
+* [`tcc_ia_analise_fundamentalista.ipynb`](./tcc_ia_analise_fundamentalista.ipynb): Código do projeto
 * [`licenca`](./LICENSE): Arquivo de licença
 
 ## Créditos e Autoria
